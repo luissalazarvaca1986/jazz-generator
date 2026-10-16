@@ -2,7 +2,7 @@
 
 Generador interactivo de piano en el navegador: una mano izquierda que marca un bucle fijo y una mano derecha que improvisa con un pequeño conjunto de notas. Todo corre en una sola página HTML, sin dependencias ni backend.
 
-**Demo:** https://luissalazarvaca1986.github.io/jazz-generator/
+### [▶ Probar](https://luissalazarvaca1986.github.io/jazz-generator/)
 
 ## Cómo funciona
 
@@ -13,7 +13,7 @@ Generador interactivo de piano en el navegador: una mano izquierda que marca un 
 
 ## Uso
 
-1. Abrir la [demo](https://luissalazarvaca1986.github.io/jazz-generator/) o `Jazz_gen.html` localmente en un navegador moderno.
+1. Abrir [la demo](https://luissalazarvaca1986.github.io/jazz-generator/) o `Jazz_gen.html` localmente en un navegador moderno.
 2. Pulsar el botón de play (▶) para iniciar.
 3. Ajustar el volumen con el deslizador vertical.
 4. Pulsar stop (■) para detener.
